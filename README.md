@@ -16,4 +16,4 @@ Coding Rules:
 License Rules:
 
 1. Right now it is using the very permissive MIT License, but it may change depending on the sources which we use
-2. License changes if we use a less permissive GPLv2 for example
+2. License changes if we use a less permissive GPLv2 source for example
