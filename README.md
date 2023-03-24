@@ -3,7 +3,7 @@ Git repository for the project  Multi-level 3D Scene Graph implemented for the c
 
 Commit Rules:
 
-1. Never commit directly to the dev branch
+1. Never commit directly to the main branch
 2. Always commit to your own feature branch (e.g. kmor/feature-x ; ppathiran/feature-y; dtenore/feature-z)
 3. Start a merge request once your feature is working properly, then it will be merged.
 4. Open a new feature branch like on step 2 to work on a new feature.
