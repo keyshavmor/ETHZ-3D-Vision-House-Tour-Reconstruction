@@ -5,7 +5,7 @@ import nltk
 nltk.download('averaged_perceptron_tagger')
 
 # Parse subtitle file
-sub_file = 'output.en.srt'
+sub_file = 'eth_sph.srt'
 with open(sub_file, 'r') as f:
     sub_data = f.read()
 
@@ -30,7 +30,7 @@ for i, subtitle in enumerate(subs):
         subtitles.append(sub_meta)
 
 # Extract video metadata
-video_file = 'online_video.mp4'
+video_file = 'IMG_1315.mp4'
 cap = cv2.VideoCapture(video_file)
 frame_rate = cap.get(cv2.CAP_PROP_FPS)
 total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
