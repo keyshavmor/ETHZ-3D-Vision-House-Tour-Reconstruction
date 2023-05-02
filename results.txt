@@ -1,0 +1,150 @@
+wall --> doors 
+building --> loft  --- probably not mentioned in video
+sky --> window  --- probably not mentioned in video
+floor --> floor 
+tree --> wood  --- probably not mentioned in video
+ceiling --> ceiling 
+road --> window  --- probably not mentioned in video
+bed --> bed 
+windowpane --> window 
+grass --> backyard  --- probably not mentioned in video
+cabinet --> cabinets 
+sidewalk --> patio  --- probably not mentioned in video
+person --> photo 
+earth --> loft  --- probably not mentioned in video
+door --> doors 
+table --> table 
+mountain --> granite  --- probably not mentioned in video
+plant --> wire  --- probably not mentioned in video
+curtain --> curtain 
+chair --> chair 
+car --> two car garage  --- probably not mentioned in video
+water --> foam  --- probably not mentioned in video
+painting --> lamp  --- probably not mentioned in video
+sofa --> sofa 
+shelf --> shelves 
+house --> foyer 
+sea --> aquarium  --- probably not mentioned in video
+mirror --> mirror 
+rug --> carpet 
+field --> wire  --- probably not mentioned in video
+armchair --> sofa 
+seat --> chair 
+fence --> wire  --- probably not mentioned in video
+desk --> office 
+rock --> granite  --- probably not mentioned in video
+wardrobe --> clothes 
+lamp --> lamp 
+bathtub --> bath 
+railing --> wire  --- probably not mentioned in video
+cushion --> chair  --- probably not mentioned in video
+base --> loft  --- probably not mentioned in video
+box --> doors  --- probably not mentioned in video
+column --> can  --- probably not mentioned in video
+signboard --> stand  --- probably not mentioned in video
+chest --> loft  --- probably not mentioned in video
+counter --> countertops 
+sand --> foam  --- probably not mentioned in video
+sink --> sinks 
+skyscraper --> ceiling  --- probably not mentioned in video
+fireplace --> chimney 
+refrigerator --> cupboard 
+grandstand --> window  --- probably not mentioned in video
+path --> wire  --- probably not mentioned in video
+stairs --> staircase 
+runway --> loft  --- probably not mentioned in video
+case --> can 
+pool --> aquarium  --- probably not mentioned in video
+pillow --> pillow 
+screen --> monitor 
+stairway --> staircase 
+river --> sinks  --- probably not mentioned in video
+bridge --> window  --- probably not mentioned in video
+bookcase --> library 
+blind --> vanity 
+coffee --> chair  --- probably not mentioned in video
+toilet --> bathroom 
+flower --> curtain  --- probably not mentioned in video
+book --> curtain  --- probably not mentioned in video
+hill --> loft  --- probably not mentioned in video
+bench --> patio  --- probably not mentioned in video
+countertop --> countertops 
+stove --> stoves 
+palm --> can 
+kitchen --> kitchen 
+computer --> laptop 
+swivel --> monitor 
+boat --> aquarium  --- probably not mentioned in video
+bar --> doors  --- probably not mentioned in video
+arcade --> tv  --- probably not mentioned in video
+hovel --> loft 
+bus --> window  --- probably not mentioned in video
+towel --> towel 
+light --> lamp 
+truck --> garage  --- probably not mentioned in video
+tower --> loft  --- probably not mentioned in video
+chandelier --> lamp  --- probably not mentioned in video
+awning --> window  --- probably not mentioned in video
+streetlight --> patio  --- probably not mentioned in video
+booth --> can  --- probably not mentioned in video
+television --> tv 
+airplane --> loft  --- probably not mentioned in video
+dirt --> vanity  --- probably not mentioned in video
+apparel --> clothes 
+pole --> wire 
+land --> backyard  --- probably not mentioned in video
+bannister --> can  --- probably not mentioned in video
+escalator --> gas  --- probably not mentioned in video
+ottoman --> loft  --- probably not mentioned in video
+bottle --> can 
+buffet --> table  --- probably not mentioned in video
+poster --> photo  --- probably not mentioned in video
+stage --> curtain  --- probably not mentioned in video
+van --> gas  --- probably not mentioned in video
+ship --> window  --- probably not mentioned in video
+fountain --> bath  --- probably not mentioned in video
+conveyer --> wire  --- probably not mentioned in video
+canopy --> curtain 
+washer --> dryer 
+plaything --> game room  --- probably not mentioned in video
+swimming --> bath  --- probably not mentioned in video
+stool --> chair 
+barrel --> monitor 
+basket --> clothes  --- probably not mentioned in video
+waterfall --> bath  --- probably not mentioned in video
+tent --> blanket 
+bag --> clothes 
+minibike --> wood  --- probably not mentioned in video
+cradle --> pillow  --- probably not mentioned in video
+oven --> stoves 
+ball --> photo  --- probably not mentioned in video
+food --> table  --- probably not mentioned in video
+step --> stand  --- probably not mentioned in video
+tank --> gas  --- probably not mentioned in video
+trade --> clothes  --- probably not mentioned in video
+microwave --> stoves  --- probably not mentioned in video
+pot --> chimney 
+animal --> clothes  --- probably not mentioned in video
+bicycle --> wire  --- probably not mentioned in video
+lake --> sinks  --- probably not mentioned in video
+dishwasher --> dishwasher 
+screen --> monitor 
+blanket --> blanket 
+sculpture --> granite  --- probably not mentioned in video
+hood --> wire  --- probably not mentioned in video
+sconce --> monitor  --- probably not mentioned in video
+vase --> curtain  --- probably not mentioned in video
+traffic --> clothes  --- probably not mentioned in video
+tray --> table  --- probably not mentioned in video
+ashcan --> gas  --- probably not mentioned in video
+fan --> photo 
+pier --> patio 
+crt --> can 
+plate --> table  --- probably not mentioned in video
+monitor --> monitor 
+bulletin --> monitor 
+shower --> shower 
+radiator --> heater 
+glass --> window 
+clock --> monitor  --- probably not mentioned in video
+flag --> clothes  --- probably not mentioned in video
