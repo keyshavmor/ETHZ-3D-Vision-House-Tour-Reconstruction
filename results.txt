@@ -1,0 +1,40 @@
+home --> house  --- probably not mentioned in video
+house --> house 
+floor --> floor 
+window --> windowpane 
+apartment --> house 
+staircase --> stairs 
+letter box --> box  --- probably not mentioned in video
+door --> door 
+knob --> door 
+doormat --> door 
+seat --> seat 
+bathroom --> toilet 
+poster --> poster 
+handwash --> washer 
+mirror --> mirror 
+cosmetics --> wardrobe  --- probably not mentioned in video
+bedroom --> bed 
+shelf --> shelf 
+clock --> clock 
+lamp --> lamp 
+family portrait --> house  --- probably not mentioned in video
+vacuum --> sink  --- probably not mentioned in video
+guitar --> stage  --- probably not mentioned in video
+bed --> bed 
+computer --> computer 
+keyboard --> computer 
+cigarettes --> lamp  --- probably not mentioned in video
+lighter --> light  --- probably not mentioned in video
+bag --> bag 
+shoes --> apparel  --- probably not mentioned in video
+tv --> television 
+speaker --> person 
+souvenirs --> light  --- probably not mentioned in video
+clock --> clock 
+dishwasher --> dishwasher 
+dishes --> dishwasher 
+water heater --> radiator  --- probably not mentioned in video
+toaster --> microwave  --- probably not mentioned in video
+microwave --> microwave 
+fridge --> refrigerator 

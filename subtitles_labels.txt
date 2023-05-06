@@ -1,0 +1,40 @@
+home
+house
+floor
+window
+apartment
+staircase
+letter box
+door
+knob
+doormat
+seat
+bathroom
+poster
+handwash
+mirror
+cosmetics
+bedroom
+shelf
+clock
+lamp
+family portrait
+vacuum
+guitar
+bed
+computer
+keyboard
+cigarettes
+lighter
+bag
+shoes
+tv
+speaker
+souvenirs
+clock
+dishwasher
+dishes
+water heater
+toaster
+microwave
+fridge
