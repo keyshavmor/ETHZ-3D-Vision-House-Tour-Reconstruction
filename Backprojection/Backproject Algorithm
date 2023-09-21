@@ -1,0 +1,8 @@
+For each 3D point $p_3D$ in points3D.txt do:
+	$labels_3D$ = []
+	for all 2D points $p_2d$ contributing to $p_3D$:
+		get label $l_2d$
+		if keywords.txt contains class[$l_2d$]:
+			$labels_3D$.append($l_2d$)
+	$final-label$ = mostcommon($labels_3D$)
+	
