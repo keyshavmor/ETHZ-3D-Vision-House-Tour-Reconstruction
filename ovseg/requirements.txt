@@ -10,5 +10,5 @@ pandas
 braceexpand
 torch-ema
 torchmetrics==0.11.4
-setuptools==59.5.0
+setuptools==65.5.1
 webdataset>=0.2.5
